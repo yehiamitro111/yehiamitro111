@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yehiamitro111
+- 👋 Hi, I’m @mitroyehia1
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -10,3 +10,6 @@
 yehiamitro111/yehiamitro111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Console.WriteLine(typeof(Dictionary<,>));
+// Output:
+// System.Collections.Generic.Dictionary`2[TKey,TValue]
